@@ -52468,7 +52468,7 @@ S7oT7[27885] = S7oT7[181028];
 							});
 						};
 						c.prototype.itb = function(l) {
-							l.ctrlKey && l.altKey && l.shiftKey && l.keyCode == g.oA.s_ && this.wV.Qra && this.toggle();
+							l.ctrlKey && l.altKey && l.shiftKey && l.keyCode == g.oA.s_ && this.toggle();
 						};
 						b.SMa = c;
 					},
